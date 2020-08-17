@@ -4,7 +4,7 @@
 <meta charset="utf-8">
       <link href='https://fonts.googleapis.com/css?family=Yellowtail' rel='stylesheet'>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
+      <script src="js/menu.js"><script>
       <title>Sami Store</title>
     </head>
 
@@ -215,13 +215,3 @@ color: goldenrod;
   color: white;
 }
 </style>
-<script>
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
-</script>
