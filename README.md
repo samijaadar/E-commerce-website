@@ -12,4 +12,4 @@ Step 3:
 Create 'shopping' Database
 
 step 4:
-Import teh database from 'Database' folder
+Import the database from 'Database' folder
