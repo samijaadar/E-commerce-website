@@ -1,0 +1,58 @@
+
+h1{
+    text-align:center;
+    padding:30px;
+    color:#e8491d;
+  }
+.regform{
+       width:600px;
+ margin:auto;
+ color:black;
+    margin-top: 30px;
+ padding:10px 0px 10px 0px;
+ text-align:center;
+ border-radius:15px 15px 0px 0px ;
+ }
+.main{
+width:800px;
+height: 1150px;
+margin:auto;
+}
+.form{
+   padding:30px;
+   background-color: #e8491d;
+   border-radius: 30px;
+}
+.name{
+         margin-left:25px;
+         margin-top:5px;
+         width: 125px;
+         color: white;
+         font-size: 18px;
+         font-weight: 700;
+  }
+
+.company{
+  position:relative;
+  left:200px;
+  top:-37px;
+  line-height: 40px;
+  width:480px;
+  border-radius: 6px;
+  padding: 0 12px;
+  font-size: 16px;
+  color: #555;
+}
+
+.btn-p {
+background-color: gold;
+color: white;
+font-weight: bold;
+font-size: 20px;
+margin-left: 300px;
+padding: 16px 30px;
+border: none;
+cursor: pointer;
+border-radius: 10px;
+text-align: center;
+}
